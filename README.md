@@ -7,3 +7,7 @@ Write a python3 function named "find_consecutive_runs" that accepts as an argume
 Submit your work attached to an email.
 
 Example: [1, 2, 3, 5, 10, 9, 8, 9, 10, 11, 7, 8, 7] returns [0, 4, 6, 7]
+
+
+# unit tests
+To run unit tests: python test_consecutive_runs.py
